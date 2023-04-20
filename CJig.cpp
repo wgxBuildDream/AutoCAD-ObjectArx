@@ -3,6 +3,7 @@
 #include "CDwgDatebaseUtil.h"
 #include "dbjig.h"
 #define PI 3.141592654
+
 CJig::CJig()
 {
 	m_pPoly = NULL;
